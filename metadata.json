@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Sky - Arcade",
+  "description": "A polished arcade game where you flap a cute bird through obstacles in dynamic skies, with progressive difficulty, crisp physics, high scores, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
